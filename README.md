@@ -62,7 +62,7 @@ Data Processing: Pandas
 ### 1️⃣ Clone the Repository
 git clone https://github.com/M-Abdullah-Baig/CFO-Agent.git
 
-cd ai-cfo-chatbot
+cd CFO-Agent
 
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt

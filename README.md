@@ -4,39 +4,57 @@ An AI-powered CFO assistant built with Streamlit that analyzes financial documen
 
 ## 🚀 Features
 📂 Google Drive Integration
+
 Automatically fetches financial statements (PDF, CSV, Excel, TXT)
+
 Builds a unified corpus for analysis
 
 🤖 AI CFO Assistant
+
 Uses GPT-4o to answer financial questions
+
 Provides insights like revenue trends, cost breakdowns, etc.
 
 📊 Auto Chart Generation
+
 Generates Python (matplotlib/plotly) code for visualizations
+
 Renders charts directly in Streamlit
 
 🎙️ Voice Input (Whisper)
+
 Speak your query instead of typing
+
 Converts speech → text using OpenAI Whisper
 
 🔊 Text-to-Speech (TTS)
+
 AI responses are read aloud automatically
 
 💬 Conversation Memory
+
 Maintains chat history for contextual responses
 
 ## 🧠 Use Cases
 Financial statement analysis
+
 CFO-level insights generation
+
 Automated reporting & visualization
+
 Voice-enabled AI dashboards
 
 ## 🏗️ Tech Stack
 Frontend: Streamlit
+
 LLM: OpenAI GPT-4o
+
 Speech-to-Text: Whisper
+
 Text-to-Speech: OpenAI TTS
+
 Storage: Google Drive API
+
 Data Processing: Pandas
 
 ## ⚙️ Setup Instructions
@@ -75,14 +93,20 @@ pip install streamlit-mic-recorder
 
 ### 📊 Supported File Types
 PDF (.pdf)
+
 Excel (.xlsx)
+
 CSV (.csv)
+
 Text (.txt)
 
 ### 🧾 Example Queries
 "What is the total revenue trend?"
+
 "Show a profit vs expense chart"
+
 "Summarize this financial report"
+
 "Which month had highest growth?"
 
 ### ⚠️ Notes

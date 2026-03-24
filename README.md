@@ -34,17 +34,10 @@ Text-to-Speech: OpenAI TTS
 Storage: Google Drive API
 Data Processing: Pandas
 
-## 📁 Project Structure
-├── app.py                  # Main AI CFO chatbot
-├── voice_chatbot.py        # Standalone voice chatbot
-├── drive_reader.py         # Google Drive PDF extraction
-├── .env                    # Environment variables
-├── requirements.txt
-└── README.md
-
 ## ⚙️ Setup Instructions
+
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-cfo-chatbot.git
+git clone https://github.com/M-Abdullah-Baig/CFO-Agent.git
 cd ai-cfo-chatbot
 
 ### 2️⃣ Install Dependencies

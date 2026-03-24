@@ -49,7 +49,9 @@ pip install -r requirements.txt
 Create a .env file:
 
 OPENAI_API_KEY=your_openai_api_key
+
 GOOGLE_SERVICE_JSON_PATH=path_to_service_account.json
+
 DRIVE_FOLDER_ID=your_google_drive_folder_id
 
 ### 4️⃣ Google Drive Setup

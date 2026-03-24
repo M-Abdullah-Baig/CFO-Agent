@@ -116,6 +116,9 @@ Whisper requires audio input support
 
 ### 🔮 Future Improvements
 RAG with vector database (FAISS / Pinecone)
+
 Multi-user authentication
+
 Real-time dashboards
+
 Deployment (Streamlit Cloud / AWS)
